@@ -1,0 +1,26 @@
+﻿Model,Scenario,Variable,Unit,2020,2025,2030,2035,2040,2045,2050
+AIM/Hub-Global 2.0,1.5C,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,1226.8522,3787.8823,3495.9818,4208.0726,4188.8222,1979.1831,2172.1616
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_450,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,205.6047089,1119.719043,1288.036821,806.4482513,743.6478218,818.2064982,788.7364284
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_500,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,205.6047089,1114.55652,1196.870956,871.796434,787.9958201,902.3332396,787.4857526
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600_COV,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,206.5152847,647.8224752,703.3794173,948.328279,777.2078559,789.0052955,717.6224445
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600_DR1p,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,290.7132648,1066.126279,1184.441008,877.5235166,726.3796805,776.9817109,654.9243141
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600_DR2p,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,266.5312169,1022.629235,1169.962665,858.7623993,736.9063593,780.6496723,669.3085967
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600_DR3p,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,252.5082505,997.1713133,1099.44064,903.4156364,716.5749493,795.5739307,724.4663206
+MESSAGEix-GLOBIOM_1.1,EN_NPi2020_600_DR4p,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,222.1758207,985.2102528,1048.527101,925.8394506,700.6730742,851.4992135,764.1649465
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_200f,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,430.5483,1440.2045,1403.4033,1031.7963,971.4013,1188.3448,1474.0212
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_300f,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,430.5483,1387.6304,1380.7073,1025.3321,950.9883,1145.5483,1413.9513
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_400,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,430.5483,2211.2994,1790.0101,1386.8956,1197.644,1102.5911,1253.2903
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_400f,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,430.5483,1309.0555,1342.3473,1018.9576,934.6889,1108.2518,1374.3324
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_500,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,430.5483,1756.7457,1543.9088,1127.8704,1059.5671,1184.4133,1351.6662
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,430.5483,1474.8216,1424.0837,1027.0644,961.4864,1165.3595,1391.1656
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600_COV,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,418.6201,1226.1844,1276.8655,901.5272,804.9338,945.095,1144.925
+REMIND-MAgPIE 2.1-4.2,EN_NPi2020_600f_COV,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,418.6201,1025.7439,1144.1234,899.2474,810.7596,938.8358,1141.0216
+REMIND-MAgPIE 2.1-4.2,NGFS2_Divergent Net Zero Policies,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,365.1692,1092.2017,1171.0889,841.8724,636.1216,646.414,802.8334
+REMIND-MAgPIE 2.1-4.2,NGFS2_Net-Zero 2050,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,365.1692,1093.3438,1218.7736,848.8973,631.6186,639.0343,793.598
+REMIND-MAgPIE 2.1-4.2,NGFS2_Net-Zero 2050 - IPD-95th,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,375.845,1163.027,1194.3218,812.3966,592.4728,614.6198,777.3726
+REMIND-MAgPIE 2.1-4.2,NGFS2_Net-Zero 2050 - IPD-median,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,374.3046,1149.5764,1204.5176,826.1909,606.8531,625.788,791.4813
+WITCH 5.0,EN_NPi2020_400f,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,491.7714295,596.5391932,720.6663123,824.993296,864.4031808,924.6294585,906.7957075
+WITCH 5.0,EN_NPi2020_450,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,539.217237,630.2237149,737.2070258,845.1612961,919.689368,1005.34721,907.9899372
+WITCH 5.0,EN_NPi2020_450f,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,488.4136031,593.5852458,715.3034534,819.2446575,867.3977102,924.5869598,903.0712152
+WITCH 5.0,EN_NPi2020_500,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,510.3680882,620.2467137,734.0467941,848.8427742,894.5917841,978.311618,979.817437
+WITCH 5.0,EN_NPi2020_500f,Investment|Energy Supply|Electricity|Renewables (incl. Biomass),billion US$2010/yr,486.9173211,589.073099,710.8790419,813.6088468,864.8687546,924.5719481,904.0305353
